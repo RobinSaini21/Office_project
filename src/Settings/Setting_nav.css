@@ -1,0 +1,17 @@
+.Setting_nav ul{
+    display: inline-flex;
+    text-decoration: none;
+list-style-type: none;
+border: 1px solid black;
+
+
+}
+
+.Setting_nav ul li{
+    margin: 40px;
+}
+.Setting_nav{
+     display: grid; 
+     place-content: center;
+    margin-top: 25%;        
+}

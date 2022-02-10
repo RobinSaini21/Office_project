@@ -1,0 +1,14 @@
+.inp_0{
+    width: 100px;
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+    border: 1px solid gray;
+    background: transparent;
+    border-radius: 4px;
+}
+.login_Sec{
+    margin-top: 100px;
+    display: grid;
+    place-content: center;
+}
